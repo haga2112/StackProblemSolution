@@ -1,0 +1,14 @@
+c:\users\vinicius.haga\documents\visual studio 2013\Projects\ConsoleApplicationTest\UnitTestProject1\obj\Debug\UnitTestProblemSolution.csprojResolveAssemblyReference.cache
+C:\Users\vinicius.haga\Documents\visual studio 2013\Projects\ConsoleApplicationTest\UnitTestProject1\bin\Debug\UnitTestProblemSolution.dll
+C:\Users\vinicius.haga\Documents\visual studio 2013\Projects\ConsoleApplicationTest\UnitTestProject1\bin\Debug\UnitTestProblemSolution.pdb
+C:\Users\vinicius.haga\Documents\visual studio 2013\Projects\ConsoleApplicationTest\UnitTestProject1\bin\Debug\ProblemSolution.dll
+C:\Users\vinicius.haga\Documents\visual studio 2013\Projects\ConsoleApplicationTest\UnitTestProject1\bin\Debug\ProblemSolution.pdb
+C:\Users\vinicius.haga\Documents\visual studio 2013\Projects\ConsoleApplicationTest\UnitTestProject1\obj\Debug\UnitTestProblemSolution.dll
+C:\Users\vinicius.haga\Documents\visual studio 2013\Projects\ConsoleApplicationTest\UnitTestProject1\obj\Debug\UnitTestProblemSolution.pdb
+C:\Users\vinicius.haga\Desktop\ProblemSolution\UnitTestProblemSolution\obj\Debug\UnitTestProblemSolution.csprojResolveAssemblyReference.cache
+C:\Users\vinicius.haga\Desktop\ProblemSolution\UnitTestProblemSolution\obj\Debug\UnitTestProblemSolution.dll
+C:\Users\vinicius.haga\Desktop\ProblemSolution\UnitTestProblemSolution\obj\Debug\UnitTestProblemSolution.pdb
+C:\Users\vinicius.haga\Desktop\ProblemSolution\UnitTestProblemSolution\bin\Debug\UnitTestProblemSolution.dll
+C:\Users\vinicius.haga\Desktop\ProblemSolution\UnitTestProblemSolution\bin\Debug\UnitTestProblemSolution.pdb
+C:\Users\vinicius.haga\Desktop\ProblemSolution\UnitTestProblemSolution\bin\Debug\ProblemSolution.dll
+C:\Users\vinicius.haga\Desktop\ProblemSolution\UnitTestProblemSolution\bin\Debug\ProblemSolution.pdb

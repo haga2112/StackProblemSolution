@@ -1,0 +1,5 @@
+c:\users\vinicius.haga\documents\visual studio 2013\Projects\ConsoleApplicationTest\ClassLibrary1\obj\Debug\ProblemSolution.csprojResolveAssemblyReference.cache
+C:\Users\vinicius.haga\Documents\visual studio 2013\Projects\ConsoleApplicationTest\ClassLibrary1\bin\Debug\ProblemSolution.dll
+C:\Users\vinicius.haga\Documents\visual studio 2013\Projects\ConsoleApplicationTest\ClassLibrary1\bin\Debug\ProblemSolution.pdb
+C:\Users\vinicius.haga\Documents\visual studio 2013\Projects\ConsoleApplicationTest\ClassLibrary1\obj\Debug\ProblemSolution.dll
+C:\Users\vinicius.haga\Documents\visual studio 2013\Projects\ConsoleApplicationTest\ClassLibrary1\obj\Debug\ProblemSolution.pdb
